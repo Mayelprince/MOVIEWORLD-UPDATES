@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/update.json", "dest": "/update.json" }
+  ]
+}
